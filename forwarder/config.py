@@ -7,7 +7,7 @@ class Development(Config):
 
     # Make sure to include the '-' sign in group and channel ids.
     
-    FROM_CHATS = [-1001617036243]# List of chat id's to forward messages from.
+    FROM_CHATS = [-1001617036243,-1001787061183]# List of chat id's to forward messages from.
     TO_CHATS = [-1001293630641]# List of chat id's to forward messages to.
 
     REMOVE_TAG = False
